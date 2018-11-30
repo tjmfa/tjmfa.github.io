@@ -8,9 +8,12 @@
   - [02-尼采-出自艺术家和作家的灵魂（选）.pdf](https://tjmfa.github.io/mfa-resource/pdfjs/web/viewer.html?file=https://tjmfa.github.io/mfa-resource/docs/Art_Philosophy/Featured/02-尼采-出自艺术家和作家的灵魂（选）.pdf)
   - [03-弗莱-印象主义的哲学（选）.pdf](https://tjmfa.github.io/mfa-resource/pdfjs/web/viewer.html?file=https://tjmfa.github.io/mfa-resource/docs/Art_Philosophy/Featured/03-弗莱-印象主义的哲学（选）.pdf)
   - [04-弗洛伊德-创作家与白日梦（选）.pdf](https://tjmfa.github.io/mfa-resource/pdfjs/web/viewer.html?file=https://tjmfa.github.io/mfa-resource/docs/Art_Philosophy/Featured/04-弗洛伊德-创作家与白日梦（选）.pdf)
-  - [06-霍克海默、阿多诺-文化工业批判（选）.pdf](https://tjmfa.github.io/mfa-resource/pdfjs/web/viewer.html?file=https://tjmfa.github.io/mfa-resource/docs/Art_Philosophy/Featured/06-霍克海默、阿多诺-文化工业批判（选）.pdf)
+  - [06-海德格尔-艺术作品本源（选）.pdf](https://tjmfa.github.io/mfa-resource/pdfjs/web/viewer.html?file=https://tjmfa.github.io/mfa-resource/docs/Art_Philosophy/Featured/06-海德格尔-艺术作品本源（选）.pdf)
   - [07-本雅明-技术可复制时代的艺术作品（选）.pdf](https://tjmfa.github.io/mfa-resource/pdfjs/web/viewer.html?file=https://tjmfa.github.io/mfa-resource/docs/Art_Philosophy/Featured/07-本雅明-技术可复制时代的艺术作品（选）.pdf)
-  - [12-格林伯格-前卫与庸俗（沈师导读）.pdf](https://tjmfa.github.io/mfa-resource/pdfjs/web/viewer.html?file=https://tjmfa.github.io/mfa-resource/docs/Art_Philosophy/Featured/12-格林伯格-前卫与庸俗（沈师导读）.pdf)
+  - [08-格林伯格-前卫与庸俗（读）.pdf](https://tjmfa.github.io/mfa-resource/pdfjs/web/viewer.html?file=https://tjmfa.github.io/mfa-resource/docs/Art_Philosophy/Featured/08-格林伯格-前卫与庸俗（读）.pdf)
+  - [09-霍克海默，阿多诺-文化工业批判（选）.pdf](https://tjmfa.github.io/mfa-resource/pdfjs/web/viewer.html?file=https://tjmfa.github.io/mfa-resource/docs/Art_Philosophy/Featured/09-霍克海默，阿多诺-文化工业批判（选）.pdf)
+  - [10-丹尼尔·贝尔-文化言路的断裂（选）.pdf](https://tjmfa.github.io/mfa-resource/pdfjs/web/viewer.html?file=https://tjmfa.github.io/mfa-resource/docs/Art_Philosophy/Featured/10-丹尼尔·贝尔-文化言路的断裂（选）.pdf)
+  - [11-丹托-艺术的终结（选）.pdf](https://tjmfa.github.io/mfa-resource/pdfjs/web/viewer.html?file=https://tjmfa.github.io/mfa-resource/docs/Art_Philosophy/Featured/11-丹托-艺术的终结（选）.pdf)
 
 - 原著
 
