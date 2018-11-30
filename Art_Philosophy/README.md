@@ -1,26 +1,24 @@
 # 艺术哲学
 
-## 1. 阅读计划
+> 如果 PDF 原著在线预览加载时间过长，可以直接点击下载噢
 
-| 名称 | 作者 | 日期 | 关键词 |
-| ---- | ----- | ------ | ------ |
-| 现代生活的画家 | 波德莱尔 | 1863 | 现代/瞬间/美/时尚/狂喜/艺术家/儿童/疾病/社会/群众/浪荡子/康斯坦丁 |
-| 出自艺术家和作者的灵魂 | 尼采 | 1883 | 作品/真理/巫术/宗教/灵感/野蛮人/公众/天才/希腊人/悲剧/瓦格纳音乐 |
-| 印象主义哲学 | 弗莱 | 1894 | 印象主义/印象派/经验/透视/视觉印象的真实和事物的真实/印象派画家/塞尚 |
-| 创作家与白日梦 | 弗洛伊德 | 1908 | 精神分析/意识/无意识/力多比/俄狄浦斯/梦/创伤/欲乐/压抑/幻想/达利/卡夫卡 |
-|
+- 选读
 
-## 2. 阅读报告
+  - [01-波德莱尔-现代生活的画家（选）.pdf](https://tjmfa.github.io/mfa-resource/pdfjs/web/viewer.html?file=https://tjmfa.github.io/mfa-resource/docs/Art_Philosophy/Featured/01-波德莱尔-现代生活的画家（选）.pdf)
+  - [02-尼采-出自艺术家和作家的灵魂（选）.pdf](https://tjmfa.github.io/mfa-resource/pdfjs/web/viewer.html?file=https://tjmfa.github.io/mfa-resource/docs/Art_Philosophy/Featured/02-尼采-出自艺术家和作家的灵魂（选）.pdf)
+  - [03-弗莱-印象主义的哲学（选）.pdf](https://tjmfa.github.io/mfa-resource/pdfjs/web/viewer.html?file=https://tjmfa.github.io/mfa-resource/docs/Art_Philosophy/Featured/03-弗莱-印象主义的哲学（选）.pdf)
+  - [04-弗洛伊德-创作家与白日梦（选）.pdf](https://tjmfa.github.io/mfa-resource/pdfjs/web/viewer.html?file=https://tjmfa.github.io/mfa-resource/docs/Art_Philosophy/Featured/04-弗洛伊德-创作家与白日梦（选）.pdf)
+  - [06-霍克海默、阿多诺-文化工业批判（选）.pdf](https://tjmfa.github.io/mfa-resource/pdfjs/web/viewer.html?file=https://tjmfa.github.io/mfa-resource/docs/Art_Philosophy/Featured/06-霍克海默、阿多诺-文化工业批判（选）.pdf)
+  - [07-本雅明-技术可复制时代的艺术作品（选）.pdf](https://tjmfa.github.io/mfa-resource/pdfjs/web/viewer.html?file=https://tjmfa.github.io/mfa-resource/docs/Art_Philosophy/Featured/07-本雅明-技术可复制时代的艺术作品（选）.pdf)
+  - [12-格林伯格-前卫与庸俗（沈师导读）.pdf](https://tjmfa.github.io/mfa-resource/pdfjs/web/viewer.html?file=https://tjmfa.github.io/mfa-resource/docs/Art_Philosophy/Featured/12-格林伯格-前卫与庸俗（沈师导读）.pdf)
 
+- 原著
 
-## 3. 课堂笔记
+  - [本雅明-机械复制时代的艺术作品.pdf](https://tjmfa.github.io/mfa-resource/pdfjs/web/viewer.html?file=https://tjmfa.github.io/mfa-resource/docs/Art_Philosophy/Original/本雅明-机械复制时代的艺术作品.pdf)
+  - [克莱夫·贝尔-艺术.pdf](https://tjmfa.github.io/mfa-resource/pdfjs/web/viewer.html?file=https://tjmfa.github.io/mfa-resource/docs/Art_Philosophy/Original/克莱夫·贝尔-艺术.pdf)
+  - [尼采-悲剧的诞生.pdf](https://tjmfa.github.io/mfa-resource/pdfjs/web/viewer.html?file=https://tjmfa.github.io/mfa-resource/docs/Art_Philosophy/Original/尼采-悲剧的诞生.pdf)
+  - [CLEMENT GREENBERG-AVANT-GARDE AND KITSCH.pdf](https://tjmfa.github.io/mfa-resource/pdfjs/web/viewer.html?file=https://tjmfa.github.io/mfa-resource/docs/Art_Philosophy/Original/CLEMENT GREENBERG-AVANT-GARDE AND KITSCH.pdf)
 
-- 艺术与其他门类关系
+- 文章
 
-  - **艺术与游戏**：严肃与反复开始构成的矛盾，反败为胜，戏剧性一幕
-
-  - **艺术与劳动**：兵器之美，力量之美，撒网捕鱼的姿态，艄公的号子
-
-  - **艺术与巫术**：祭祀，迷信，天人交换，通灵
-
-- 艺术是在 **演示** 问题，哲学是在 **解决** 问题
+  - 敬请期待
